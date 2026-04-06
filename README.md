@@ -18,7 +18,7 @@ This entire platform was conceptualized, engineered, and polished using a multi-
 
 ## 🚀 Experience the Pulse
 
-- **Live URL**: [Explore Aurality]((https://auralitymusicstreaming.vercel.app/))
+- **Live URL**: [Explore Aurality](https://auralitymusicstreaming.vercel.app/)
 
 ---
 
