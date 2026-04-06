@@ -18,8 +18,7 @@ This entire platform was conceptualized, engineered, and polished using a multi-
 
 ## 🚀 Experience the Pulse
 
-- **Live URL**: [Explore Aurality](https://aurality-music-app.netlify.app/)
-- **Repository**: [GitHub Source](https://github.com/Prodipsen27/auralitymusicstreaming)
+- **Live URL**: [Explore Aurality]((https://auralitymusicstreaming.vercel.app/))
 
 ---
 
@@ -45,7 +44,7 @@ This entire platform was conceptualized, engineered, and polished using a multi-
 
 ## 📸 Preview
 
-![Aurality Demo](https://raw.githubusercontent.com/Prodipsen27/auralitymusicstreaming/main/public/images/demo_preview.png)
+![Aurality Demo](aurality.png)
 
 ---
 
